@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb831d07-5e59-4aef-be9e-4290d1a2e237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/artifacts/Spring_AOP_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/artifacts/Spring_AOP_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1212.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_orm_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework_26/Spring-AOP/Spring-AOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Additional_task_1/MyDatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Additional_task_1/MyDatabase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Additional_task_1/MyDatabase/src/main/java/ru/bulat/MyNormalDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Additional_task_1/MyDatabase/src/main/java/ru/bulat/MyNormalDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Additional_task_2/RegistrationFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Additional_task_2/RegistrationFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/Homework_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/out/production/Homework_1/ru/bulat/first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/src/ru/bulat/Read_XML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version 1.0/Homework_1/src/ru/bulat/first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_10/Entrance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_10/Entrance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_10/Entrance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_10/Entrance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_10/Entrance/target/Entrance-1.0/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_10/Entrance/target/Entrance-1.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_11/WorkingWithDatabase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_11/WorkingWithDatabase/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_11/WorkingWithDatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_11/WorkingWithDatabase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_11/WorkingWithDatabase/target/classes/META-INF/WorkingWithDatabase.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_12/toRememberMe/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_12/toRememberMe/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_12/toRememberMe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_12/toRememberMe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_12/toRememberMe/src/main/java/ru/bulat/servlets/NewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_12/toRememberMe/src/main/java/ru/bulat/servlets/NewMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_12/toRememberMe/src/main/java/ru/bulat/servlets/RegistrationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_12/toRememberMe/src/main/java/ru/bulat/servlets/RegistrationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_13/JsValidation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_13/JsValidation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_13/JsValidation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_13/JsValidation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_13/JsValidation/src/main/java/ru/bulat/servlets/RegistrationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_13/JsValidation/src/main/java/ru/bulat/servlets/RegistrationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_14/CheckingButtonWithJs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_14/CheckingButtonWithJs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateBootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateBootstrap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateBootstrap/target/UltimateBootstrap-1.0/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateBootstrap/target/UltimateBootstrap-1.0/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/java/ru/bulat/Main1Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/java/ru/bulat/Main1Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/webapp/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/webapp/css/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/webapp/jsp/index1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/src/main/webapp/jsp/index1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/target/UltimateHTML-1.0/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_15/UltimateHTML/target/UltimateHTML-1.0/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/ClientServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/ClientServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MySocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/MySocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/RequestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/RequestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/controller/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/controller/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/controller/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/controller/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/dao/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/dao/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_16/ClientSever/src/main/java/ru/bulat/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_17/src/ru/bulat/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_17/src/ru/bulat/Entrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_17/src/ru/bulat/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_17/src/ru/bulat/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_18/src/ru/bulat/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_18/src/ru/bulat/Entrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_20/spring_controller/src/main/webapp/WEB-INF/jsp/calc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_20/spring_controller/src/main/webapp/WEB-INF/jsp/calc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/services/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/services/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/services/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldListValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldListValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldMatchValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_21/Spring-MVC/src/main/java/ru/bulat/utils/FieldMatchValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Validation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/Validation/src/main/java/ru/itis/util/PersonValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/artifacts/spring_formsvalidation_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/artifacts/spring_formsvalidation_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__javax_javaee_web_api_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_15_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_web_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/spring-formsvalidation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/java/ru/kpfu/formsvalidation/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/java/ru/kpfu/formsvalidation/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/webapp/WEB-INF/img/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/webapp/WEB-INF/jsp/author_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/webapp/WEB-INF/jsp/book_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_21/spring_forms_and_validation/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/Spring-MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/Spring-MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/persistence-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/templates/sign_up.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/templates/users.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/twig/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/twig/code.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/twig/header.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/twig/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/twig/users.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/persistence-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/templates/sign_up.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/templates/users.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/twig/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/twig/code.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/twig/header.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/twig/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/twig/users.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_24/Spring-MVC/target/Spring-MVC-1.0/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_7/Entrance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_7/Entrance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_7/Entrance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_7/Entrance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_7/Entrance/target/Entrance-1.0/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_7/Entrance/target/Entrance-1.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_7/Entrance/target/Entrance-1.0/jsp/Main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_7/Entrance/target/Entrance-1.0/jsp/Main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_7/Entrance/target/classes/META-INF/Entrance.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_8/Part 1/CookieSorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_8/Part 1/CookieSorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/src/main/java/ru/bulat/filters/MainFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_8/Part 2/HateMicrosoft/src/main/java/ru/bulat/filters/MainFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework_9/SessionSorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_9/SessionSorting/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Homework_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1568737394244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.bulat.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/bulat/first.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/bulat/Read_XML.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ru/bulat/first.xml" />
+        <option value="$PROJECT_DIR$/src/ru/bulat/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/bulat/Read_XML.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ParserXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParserXML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ParserXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParserXML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ParserXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParserXML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bulat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587025011382" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Read_XML">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bulat.Main" />
+      <module name="ParserXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bulat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read_XML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bulat.Read_XML" />
+      <module name="ParserXML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bulat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Read_XML" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb831d07-5e59-4aef-be9e-4290d1a2e237" name="Default Changelist" comment="" />
+      <created>1568723979570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568723979570</updated>
+      <workItem from="1568723983304" duration="22395000" />
+      <workItem from="1568783657844" duration="870000" />
+      <workItem from="1568790807311" duration="2723000" />
+      <workItem from="1568812661947" duration="1329000" />
+      <workItem from="1568830178951" duration="684000" />
+      <workItem from="1568910520983" duration="1289000" />
+      <workItem from="1568961888422" duration="59000" />
+      <workItem from="1569054992853" duration="144000" />
+      <workItem from="1569767040775" duration="1357000" />
+      <workItem from="1587024875183" duration="169000" />
+      <workItem from="1587025103412" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31076000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13154362" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32918397" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329429" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/bulat/first.xml.tld" />
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/bulat/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/bulat/first.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/bulat/Read_XML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
