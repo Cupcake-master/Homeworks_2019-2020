@@ -5,7 +5,7 @@ Additional task 1
 
 Реализовать простую БД с записью-чтением и индексом.
 
-Additional_task_2
+Additional task 2
 -
 
 Сделать регистрацию на Swing.
