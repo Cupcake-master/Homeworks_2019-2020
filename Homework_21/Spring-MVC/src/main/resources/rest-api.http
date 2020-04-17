@@ -1,0 +1,33 @@
+GET http://localhost:8080/Spring_MVC_war_exploded/rest/users/bulat@list
+
+
+
+###
+
+GET http://localhost:8080/Spring_MVC_war_exploded/rest/users/all
+Accept: */*
+Cache-Control:
+
+
+###
+
+POST http://localhost:8080/Spring_MVC_war_exploded/rest/users/delete
+
+    {"id": 1,
+    "email": "bulat@mail.ru",
+    "password": "1234567890",
+    "passwordRepeat": null,
+    "telephone_number": "+7-917-245-8456",
+    "dateOfBirth": "2019-11-23",
+    "gender": "Male",
+    "country": "1",
+    "about_myself": "I like ...",
+    "check": false}
+
+<> 2020-03-06T082619.405.html
+
+###
+
+POST http://localhost:8080/Spring_MVC_war_exploded/rest/users/add
+
+###
