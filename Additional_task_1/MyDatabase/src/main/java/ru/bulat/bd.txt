@@ -1,0 +1,8 @@
+Id Name Age Country Sex 
+1 Almaz 11 Russia Male
+2 Bulat 12 null null
+3 Cat 13 null null
+4 Dog 14 null null
+5 Robert 15 null null
+6 Ruslan 16 null null
+7 null 17 null null
