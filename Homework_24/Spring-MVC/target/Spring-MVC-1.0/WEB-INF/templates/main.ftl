@@ -1,61 +1,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
-<body onload="">
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-<div id="show">
-    <p>Hello</p>
-    <p>World!</p>
-</div>
-
 <script>
     function refresh() {
 
@@ -71,11 +18,64 @@
                     winheight = $(window).height(),
                     scrolled = (wintop / (docheight - winheight)) * 100;
 
-                if (scrolled >= 100) {
-                    $(show).show();
+                if (scrolled >= 95) {
+                    $(show23).show();
                 }
             });
     })
     }
 </script>
+<body onload="refresh()">
+<div id="show23">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
+<div id="show">
+    <p>Hello</p>
+    <p>World!</p>
+</div>
 </body>
