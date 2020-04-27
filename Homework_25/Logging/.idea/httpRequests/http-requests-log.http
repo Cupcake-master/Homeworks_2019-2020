@@ -1,0 +1,18 @@
+POST http://localhost:8080/format/We
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/format/We
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/format/I
+Accept: */*
+Cache-Control: no-cache
+
+###
+

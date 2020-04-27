@@ -1,0 +1,9 @@
+-- Данный sql запрос нужно выполнить для создания таблиц логов
+CREATE TABLE LOGS
+(
+  ID SERIAL PRIMARY KEY,
+  DATED   DATE NOT NULL,
+  LOGGER  VARCHAR(50) NOT NULL,
+  LEVEL   VARCHAR(10) NOT NULL,
+  MESSAGE VARCHAR(1000) NOT NULL
+);
